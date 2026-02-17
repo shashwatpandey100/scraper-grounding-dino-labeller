@@ -1,0 +1,5 @@
+category,product_name,variant_text,brand,mrp_inr,main_image_url,alt_image_urls
+Beverages,Coca Cola,250ml,Coca-Cola,20,https://m.media-amazon.com/images/I/51v8nyxSOYL._SL1500_.jpg,https://m.media-amazon.com/images/I/71FQ0SjqgWL._SL1500_.jpg|https://m.media-amazon.com/images/I/71s9NRPIALL._SL1500_.jpg
+Beverages,Thums Up,750ml,Thums Up,40,https://m.media-amazon.com/images/I/51qgdXMXURL._SL1500_.jpg,
+Snacks,Lays Classic Salted,52g,Lays,20,https://m.media-amazon.com/images/I/81vJyb43URL._SL1500_.jpg,https://m.media-amazon.com/images/I/81K1AKGV9BL._SL1500_.jpg
+Personal_Care,Dove Soap,100g,Dove,55,https://m.media-amazon.com/images/I/51osE-DWZWL._SL1100_.jpg,
